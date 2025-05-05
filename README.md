@@ -30,11 +30,11 @@
 </picture>
 <picture>
     <source
-        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=adriannebulao&layout=compact&theme=github_dark"
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=adriannebulao&layout=compact&theme=github_dark&hide=cmake,c%2B%2B,swift,c,kotlin"
         media="(prefers-color-scheme: dark)"
     />
     <source
-        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=adriannebulao&layout=compact&theme=default"
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=adriannebulao&layout=compact&theme=default&hide=cmake,c%2B%2B,swift,c,kotlin"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adriannebulao&layout=compact" height=150px>
