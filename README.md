@@ -23,7 +23,7 @@
         media="(prefers-color-scheme: dark)"
     />
     <source
-        srcset="https://github-readme-stats.vercel.app/api?username=adriannebulao&show_icons=true&theme=github_dark"
+        srcset="https://github-readme-stats.vercel.app/api?username=adriannebulao&show_icons=true&theme=default"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img src="https://github-readme-stats.vercel.app/api?username=adriannebulao&show_icons=true" height=150px>
